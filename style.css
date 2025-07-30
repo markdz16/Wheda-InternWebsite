@@ -3,6 +3,10 @@
 
 }
 
+.pdf {
+	flex-wrap: wrap;
+}
+
 body{
 	background-color: #FFFFFF;
 	font-family: Arial;
